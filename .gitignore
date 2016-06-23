@@ -13,6 +13,9 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.idea\
+*.idea\workspace.xml
+*.gitignore
 
 # Windows shortcuts
 *.lnk
